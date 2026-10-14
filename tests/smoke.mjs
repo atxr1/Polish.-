@@ -1,0 +1,28 @@
+// Quick Playwright smoke test: title -> main menu -> Fight again -> battle screenshots.
+import { chromium } from 'playwright';
+const W = +(process.env.W || 844), H = +(process.env.H || 390);
+const out = process.env.OUT || 'shots';
+const browser = await chromium.launch();
+const ctx = await browser.newContext({ viewport: { width: W, height: H }, deviceScaleFactor: 3, isMobile: true, hasTouch: true });
+const page = await ctx.newPage();
+const errs = [];
+page.on('console', (m) => { if (m.type() === 'error' || m.type() === 'warning') errs.push(m.type() + ': ' + m.text()); });
+page.on('pageerror', (e) => errs.push('pageerror: ' + e.message));
+await page.goto('http://localhost:8077/', { waitUntil: 'networkidle' });
+await page.waitForTimeout(800);
+await page.screenshot({ path: `${out}/01-title.png` });
+await page.tap('.title');
+await page.waitForTimeout(600);
+await page.screenshot({ path: `${out}/02-main.png` });
+await page.tap('[data-go="again"]');
+await page.waitForTimeout(500);
+await page.screenshot({ path: `${out}/03-loading.png` });
+await page.waitForSelector('.vs', { timeout: 15000 });
+await page.waitForTimeout(700);
+await page.screenshot({ path: `${out}/04-vs.png` });
+await page.waitForTimeout(3200);
+await page.screenshot({ path: `${out}/05-battle.png` });
+await page.waitForTimeout(4000);
+await page.screenshot({ path: `${out}/06-battle.png` });
+console.log(errs.slice(0, 30).join('\n') || 'no console errors');
+await browser.close();

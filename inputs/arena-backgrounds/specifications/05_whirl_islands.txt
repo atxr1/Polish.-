@@ -1,0 +1,15 @@
+Whirl Islands
+Mode: water
+Generation: built-in image generation
+
+Use case: stylized-concept.
+Asset type: finished 2D video-game battle background PNG.
+Create exactly one 1536x1024 landscape image, 3:2 aspect ratio. Fill the canvas edge to edge. This is the actual game asset, not a mockup, sheet, montage, illustration of a screen, or framed picture.
+Style: authentic 16-bit / Game Boy Advance and Nintendo DS era RPG pixel art. Crisp square hard-edged art pixels about 3x3 output pixels. Use a coherent limited palette of ABOUT 40 distinct solid colors. No anti-aliasing, no blur, no smooth gradients, no painterly texture, no photorealism, no film grain. Flat color ramps of 2-4 shades are fine. Match the same pixel scale and design language across this asset set.
+No characters, no Pokémon, no people, no text, no UI, no logos, no watermark, no border frame, no vignette. No perspective horizon. All decorative effects are restrained pixel shapes.
+Camera: almost directly overhead, with only a slight 3/4 tilt, near-orthographic overhead RPG map. Layout is critical: the centered rectangle occupying 75% of image width and 75% of image height (x=192 through 1343, y=128 through 895) is entirely open, flat, evenly lit calm water, with NO objects, hazards, debris, plants, pillars, railings, architecture, falling shadows, or other obstacles on it. Keep its surface texture extremely subtle, low contrast, sparse and unobtrusive so small character sprites stay readable. Faint floor inlays and faint natural surface texture are allowed. All features, including their shadows, must remain entirely within the outer 12.5% edge strips. The border can be rich and detailed, but cannot intrude into this clear central rectangle. Avoid a receding horizon or a narrowing trapezoidal stage.
+Setting: Inspired by the Whirl Islands from Pokémon Gold/Silver/HeartGold/SoulSilver: a deep sea-cave lagoon inside a rocky island. Dark blue-green water fills the middle with a few gentle swirling current lines.
+Border/features: Only in the outer border: wet grey-blue rock walls and ledges, two small waterfalls trickling into the water, a few softly glowing cave crystals. A soft shaft of light from a hole in the cave ceiling falls only onto one corner, rendered with a few discrete flat pixel colors, never blur or gradients.
+Precision: make the calm central water area at least the full x=192..1343, y=128..895 rectangle. Give the perimeter decorations a deliberately thin footprint. Do not draw pool lane dividers, islands, stepping stones, whirlpool funnels, or any object in this central rectangle. Render native hard pixel shapes on a uniform approximately 3-pixel grid; do not add fine noise or tiny 1-pixel detail. Use only about 40 solid RGB palette colors.
+
+Technical export: indexed PNG palette of up to 40 colors; uniform 3x3 nearest-neighbor art pixels. Final canvas 1536x1024.

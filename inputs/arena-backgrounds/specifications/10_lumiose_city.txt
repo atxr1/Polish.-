@@ -1,0 +1,19 @@
+Lumiose City
+Mode: air
+Generation: built-in image generation
+
+Use case: stylized-concept.
+Asset type: finished 2D video-game battle background PNG.
+Create exactly one 1536x1024 landscape image, 3:2 aspect ratio. Fill the canvas edge to edge. This is the actual game asset, not a mockup, sheet, montage, illustration of a screen, or framed picture.
+Style: authentic 16-bit / Game Boy Advance and Nintendo DS era RPG pixel art. Crisp square hard-edged art pixels about 3x3 output pixels. Use a coherent limited palette of ABOUT 40 distinct solid colors. No anti-aliasing, no blur, no smooth gradients, no painterly texture, no photorealism, no film grain. Flat color ramps of 2-4 shades are fine. Match the same pixel scale and design language across this asset set.
+No characters, no Pokémon, no people, no text, no UI, no logos, no watermark, no border frame, no vignette. No perspective horizon. All decorative effects are restrained pixel shapes.
+Camera: looking straight down from very high in the sky. This is a far-below background for an aerial battle, not a walkable platform. Everything looks far away: use slightly hazy, desaturated, low-contrast flat palette colors to suggest distance WITHOUT any actual blur, transparency haze, or gradients. The middle must be restrained and readable under small flying sprites. Leave the middle completely free of clouds.
+Setting: Inspired by Lumiose City from Pokémon X/Y: a grand circular city at dusk seen from far above, with broad boulevards radiating from the center in a star pattern, blocks of cream buildings with slate-blue roofs, small parks. At the very center is the top of a tall slender lattice tower with warm lights.
+Border/features: The city and central tower must look very far away, not a large foreground building. Only a few thin cloud wisps in the corners. Keep the middle free of clouds because the game draws its own clouds.
+Precision: true straight-down bird's-eye camera with no horizon or perspective skyline. Far-below scenery occupies modest scale. Keep atmospheric distance entirely in the restrained desaturated palette, not blur. Corner wisps must stay completely outside the middle 75% rectangle x=192..1343, y=128..895. Use approximately 3x3 pixel blocks with only about 40 solid colors and no fine microtexture.
+
+Final revision prompt:
+Use case: precise-object-edit. Edit this existing generated 2D battle background. Output exactly 1536x1024 landscape. Required correction: Correct only the central tower's camera so it is viewed from DIRECTLY OVERHEAD: replace the side-view Eiffel silhouette with the small square/radial roof projection of a slender lattice tower, viewed down along its vertical axis with four symmetric tiny illuminated lattice legs. No triangular tower side profile or vertical side wall. Keep the tower small and subdued, far below. Preserve the circular city, radiating boulevards, cream buildings with slate-blue roofs, parks, warm tiny dusk lights and the desaturated low-contrast palette. Thin cloud wisps remain only at very outer corners, never in the middle.
+Preserve the setting, recognizable features and palette. Use authentic 16-bit/Game Boy Advance/Nintendo DS pixel art: hard-edged square art pixels about 3x3 screen pixels, about 40 solid flat palette colors. No anti-aliasing, smooth gradients, blur or fine microtexture. No characters, Pokémon, people, text, UI, logos or watermark. Fill the canvas edge to edge, without a frame or vignette.
+
+Technical export: indexed PNG palette of up to 40 colors; uniform 3x3 nearest-neighbor art pixels. Final canvas 1536x1024.

@@ -1,0 +1,26 @@
+{
+  "name": "pokemon-arena-browser",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pokémon Arena, browser edition: a real-time pixel-art arena fighter (personal, non-commercial fan game).",
+  "type": "module",
+  "scripts": {
+    "build": "bun tools/build.mjs",
+    "build:all": "bun tools/build.mjs --all",
+    "serve": "cd site && python3 -m http.server 8077",
+    "validate": "bun tools/validate.mjs",
+    "lint:shapes": "bun tools/shapelint.mjs",
+    "harness": "bun tools/harness.mjs --runs 300 --format both",
+    "tune": "bun tools/tune.mjs --rounds 4 --games 40",
+    "serpents": "bun tests/serpent_metrics.mjs",
+    "contact": "node tests/contact.mjs",
+    "captures": "node tests/captures.mjs",
+    "e2e": "node tests/e2e.mjs",
+    "soak": "node tests/soak.mjs 10",
+    "sizes": "bun tools/sizes.mjs",
+    "docs": "bun tools/gen_docs.mjs && python3 -I tools/credits.py"
+  },
+  "devDependencies": {
+    "playwright": "preinstalled (PLAYWRIGHT_BROWSERS_PATH)"
+  }
+}

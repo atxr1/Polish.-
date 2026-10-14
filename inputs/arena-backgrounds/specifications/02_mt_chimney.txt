@@ -1,0 +1,18 @@
+Mt. Chimney
+Mode: ground
+Generation: built-in image generation
+
+Use case: stylized-concept.
+Asset type: finished 2D video-game battle background PNG.
+Create exactly one 1536x1024 landscape image, 3:2 aspect ratio. Fill the canvas edge to edge. This is the actual game asset, not a mockup, sheet, montage, illustration of a screen, or framed picture.
+Style: authentic 16-bit / Game Boy Advance and Nintendo DS era RPG pixel art. Crisp square hard-edged art pixels about 3x3 output pixels. Use a coherent limited palette of ABOUT 40 distinct solid colors. No anti-aliasing, no blur, no smooth gradients, no painterly texture, no photorealism, no film grain. Flat color ramps of 2-4 shades are fine. Match the same pixel scale and design language across this asset set.
+No characters, no Pokémon, no people, no text, no UI, no logos, no watermark, no border frame, no vignette. No perspective horizon. All decorative effects are restrained pixel shapes.
+Camera: almost directly overhead, with only a slight 3/4 tilt, near-orthographic overhead RPG map. Layout is critical: the centered rectangle occupying 75% of image width and 75% of image height (x=192 through 1343, y=128 through 895) is entirely open, flat, evenly lit floor, with NO objects, hazards, debris, plants, pillars, railings, architecture, falling shadows, or other obstacles on it. Keep its surface texture extremely subtle, low contrast, sparse and unobtrusive so small character sprites stay readable. Faint floor inlays and faint natural surface texture are allowed. All features, including their shadows, must remain entirely within the outer 12.5% edge strips. The border can be rich and detailed, but cannot intrude into this clear central rectangle. Avoid a receding horizon or a narrowing trapezoidal stage.
+Setting: Inspired by Mt. Chimney from Pokémon Ruby/Sapphire/Emerald: a flat plateau of dark volcanic rock on the rim of an active volcano. The floor is charcoal-grey basalt with fine ash dust and a few thin, faintly glowing cracks.
+Border/features: Only in the outer border: jagged black rock outcrops, pools and rivulets of bright orange lava in the corners, small steam vents, and one cable-car post with a cable at one edge.
+
+Final revision prompt:
+Use case: precise-object-edit. Edit this existing generated 2D battle-map asset, preserving its setting, palette and characteristic border design. Output exactly 1536x1024 landscape. Required correction: Reduce the volcanic battle floor's dense tiny speckled texture by about 85 percent. Replace the noisy ash with a sparse, flat matte charcoal basalt surface with only a few barely visible solid-color marks. Keep just a few very thin faint warm cracks in the floor. The entire centered rectangle x=192..1343,y=128..895 must be flat uninterrupted rock with no outcrops or objects. Move any top outcrops or cable-post feet above y=115, bottom outcrops below y=910, and side rocks outside x=175..1360. Preserve the jagged perimeter, corner lava, small steam vents and one cable-car post.
+Keep authentic 16-bit/Game Boy Advance/Nintendo DS pixel art, hard-edged square art pixels about 3x3 screen pixels, about 40 solid flat palette colors, absolutely no anti-aliasing, smooth gradients, blur or microtexture. No characters, Pokémon, people, text, UI, logos or watermark. Edge-to-edge full canvas, no picture frame or vignette. This is a production game background, not a decorative illustration.
+
+Technical export: indexed PNG palette of up to 40 colors; uniform 3x3 nearest-neighbor art pixels. Final canvas 1536x1024.

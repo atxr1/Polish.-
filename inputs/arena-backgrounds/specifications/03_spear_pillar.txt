@@ -1,0 +1,18 @@
+Spear Pillar
+Mode: ground
+Generation: built-in image generation
+
+Use case: stylized-concept.
+Asset type: finished 2D video-game battle background PNG.
+Create exactly one 1536x1024 landscape image, 3:2 aspect ratio. Fill the canvas edge to edge. This is the actual game asset, not a mockup, sheet, montage, illustration of a screen, or framed picture.
+Style: authentic 16-bit / Game Boy Advance and Nintendo DS era RPG pixel art. Crisp square hard-edged art pixels about 3x3 output pixels. Use a coherent limited palette of ABOUT 40 distinct solid colors. No anti-aliasing, no blur, no smooth gradients, no painterly texture, no photorealism, no film grain. Flat color ramps of 2-4 shades are fine. Match the same pixel scale and design language across this asset set.
+No characters, no Pokémon, no people, no text, no UI, no logos, no watermark, no border frame, no vignette. No perspective horizon. All decorative effects are restrained pixel shapes.
+Camera: almost directly overhead, with only a slight 3/4 tilt, near-orthographic overhead RPG map. Layout is critical: the centered rectangle occupying 75% of image width and 75% of image height (x=192 through 1343, y=128 through 895) is entirely open, flat, evenly lit floor, with NO objects, hazards, debris, plants, pillars, railings, architecture, falling shadows, or other obstacles on it. Keep its surface texture extremely subtle, low contrast, sparse and unobtrusive so small character sprites stay readable. Faint floor inlays and faint natural surface texture are allowed. All features, including their shadows, must remain entirely within the outer 12.5% edge strips. The border can be rich and detailed, but cannot intrude into this clear central rectangle. Avoid a receding horizon or a narrowing trapezoidal stage.
+Setting: Inspired by Spear Pillar from Pokémon Diamond/Pearl/Platinum: the ruined ancient temple at the summit of a great mountain. The floor is pale cracked marble slabs with faint carved ancient patterns forming a large circle.
+Border/features: Only in the outer border: broken white stone columns of different heights, fallen column pieces, small patches of snow. Beyond the platform edges at the corners, a dark indigo starry sky with a faint aurora drawn in restrained solid-color pixel bands.
+
+Final revision prompt:
+Use case: precise-object-edit. Edit this existing generated 2D battle-map asset, preserving its setting, palette and characteristic border design. Output exactly 1536x1024 landscape. Required correction: Enlarge the open marble battle floor into a large rectangular surface that fully contains x=192..1343,y=128..895. Reduce and move ALL perimeter columns, snow, fallen column fragments and raised stone trim so none of them enters this exact clear rectangle. Top decorations including their bases must end above y=115, bottom decorations begin below y=910, side decorations stay outside x=175..1360. Make the columns on the top and bottom borders small or partially cropped, and leave the taller columns only in the outer side strips. Preserve the faint circular marble inlay, pale slabs, broken white columns, snow and starry indigo sky with pixel aurora. Use clean large flat pixels, sparse subtle floor cracks.
+Keep authentic 16-bit/Game Boy Advance/Nintendo DS pixel art, hard-edged square art pixels about 3x3 screen pixels, about 40 solid flat palette colors, absolutely no anti-aliasing, smooth gradients, blur or microtexture. No characters, Pokémon, people, text, UI, logos or watermark. Edge-to-edge full canvas, no picture frame or vignette. This is a production game background, not a decorative illustration.
+
+Technical export: indexed PNG palette of up to 40 colors; uniform 3x3 nearest-neighbor art pixels. Final canvas 1536x1024.

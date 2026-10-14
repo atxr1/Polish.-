@@ -1,0 +1,185 @@
+{
+  "asset_count": 10,
+  "assets": [
+    {
+      "id": "01_bell_tower",
+      "name": "Bell Tower",
+      "mode": "ground",
+      "file": "images/01_bell_tower.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "PNG",
+      "encoding": "indexed palette",
+      "used_colors": 40,
+      "art_pixel_size": [
+        3,
+        3
+      ],
+      "last_pixel_row_clipped_to": 1,
+      "size_bytes": 79637,
+      "sha256": "a7fde87b23f1cf229ab00665ae75687c032120ef17d788c624befc0bf2aea036"
+    },
+    {
+      "id": "02_mt_chimney",
+      "name": "Mt. Chimney",
+      "mode": "ground",
+      "file": "images/02_mt_chimney.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "PNG",
+      "encoding": "indexed palette",
+      "used_colors": 40,
+      "art_pixel_size": [
+        3,
+        3
+      ],
+      "last_pixel_row_clipped_to": 1,
+      "size_bytes": 108849,
+      "sha256": "303bb426d42dcb9edcc96f97a2434a316c81909328e76044361d6fabeb3d93c5"
+    },
+    {
+      "id": "03_spear_pillar",
+      "name": "Spear Pillar",
+      "mode": "ground",
+      "file": "images/03_spear_pillar.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "PNG",
+      "encoding": "indexed palette",
+      "used_colors": 40,
+      "art_pixel_size": [
+        3,
+        3
+      ],
+      "last_pixel_row_clipped_to": 1,
+      "size_bytes": 73763,
+      "sha256": "28be4d465bf4a3db6a30471151f40813b9264d946182b7469d15274d5491682e"
+    },
+    {
+      "id": "04_cerulean_gym",
+      "name": "Cerulean Gym",
+      "mode": "water",
+      "file": "images/04_cerulean_gym.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "PNG",
+      "encoding": "indexed palette",
+      "used_colors": 40,
+      "art_pixel_size": [
+        3,
+        3
+      ],
+      "last_pixel_row_clipped_to": 1,
+      "size_bytes": 66052,
+      "sha256": "c3623b363fcf0212dcab72b80ab2674cc524c00b1cc5930498ffd09967171df6"
+    },
+    {
+      "id": "05_whirl_islands",
+      "name": "Whirl Islands",
+      "mode": "water",
+      "file": "images/05_whirl_islands.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "PNG",
+      "encoding": "indexed palette",
+      "used_colors": 40,
+      "art_pixel_size": [
+        3,
+        3
+      ],
+      "last_pixel_row_clipped_to": 1,
+      "size_bytes": 59131,
+      "sha256": "e7309dd87236c0b00386081b06e88f3e4fa21b296431f312c819c26c7f901634"
+    },
+    {
+      "id": "06_sootopolis",
+      "name": "Sootopolis",
+      "mode": "water",
+      "file": "images/06_sootopolis.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "PNG",
+      "encoding": "indexed palette",
+      "used_colors": 40,
+      "art_pixel_size": [
+        3,
+        3
+      ],
+      "last_pixel_row_clipped_to": 1,
+      "size_bytes": 57556,
+      "sha256": "dfa2ee478d185c6a4654281f0c8a78499b5c036851183ccfaf07968dfa3d99f0"
+    },
+    {
+      "id": "07_azure_bay",
+      "name": "Azure Bay",
+      "mode": "water",
+      "file": "images/07_azure_bay.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "PNG",
+      "encoding": "indexed palette",
+      "used_colors": 40,
+      "art_pixel_size": [
+        3,
+        3
+      ],
+      "last_pixel_row_clipped_to": 1,
+      "size_bytes": 68078,
+      "sha256": "2d6a852f6031683f2e0bf2d82c7ee1d075b385a4433106262f35de45af65eb64"
+    },
+    {
+      "id": "08_sky_pillar",
+      "name": "Sky Pillar",
+      "mode": "air",
+      "file": "images/08_sky_pillar.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "PNG",
+      "encoding": "indexed palette",
+      "used_colors": 40,
+      "art_pixel_size": [
+        3,
+        3
+      ],
+      "last_pixel_row_clipped_to": 1,
+      "size_bytes": 58045,
+      "sha256": "5761e9d75a3d52652c42b852605ed98d62625a93f7d236830d38a1c5fede032b"
+    },
+    {
+      "id": "09_dragonspiral_tower",
+      "name": "Dragonspiral Tower",
+      "mode": "air",
+      "file": "images/09_dragonspiral_tower.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "PNG",
+      "encoding": "indexed palette",
+      "used_colors": 40,
+      "art_pixel_size": [
+        3,
+        3
+      ],
+      "last_pixel_row_clipped_to": 1,
+      "size_bytes": 136770,
+      "sha256": "6660ab397fd5a1566d5b5dba317b0b547c50ee63eb5f6a1f3dbd434480842fb9"
+    },
+    {
+      "id": "10_lumiose_city",
+      "name": "Lumiose City",
+      "mode": "air",
+      "file": "images/10_lumiose_city.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "PNG",
+      "encoding": "indexed palette",
+      "used_colors": 40,
+      "art_pixel_size": [
+        3,
+        3
+      ],
+      "last_pixel_row_clipped_to": 1,
+      "size_bytes": 141518,
+      "sha256": "eae75dfe5260dc97aa76e0fb631949f6b5b89fe9f1b6ef9d36d3783dd03b8f04"
+    }
+  ]
+}

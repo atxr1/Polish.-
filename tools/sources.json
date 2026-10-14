@@ -1,0 +1,90 @@
+{
+ "note": "Pinned open-source inputs. tools/fetch_sources.sh clones each at this exact commit into vendor/ (sparse where noted).",
+ "sources": [
+  {
+   "dir": "SpriteCollab",
+   "repo": "https://github.com/PMDCollab/SpriteCollab",
+   "commit": "240addb02e92ee683b26b3322385fde402e88a6b",
+   "license": "CC BY-NC 4.0 (per-sprite credits in credits.txt / sprite_config)",
+   "use": "fighter sprites and portraits",
+   "sparse": [
+    "sprite",
+    "portrait",
+    "credit_names.txt",
+    "tracker.json"
+   ]
+  },
+  {
+   "dir": "RawAsset",
+   "repo": "https://github.com/PMDCollab/RawAsset",
+   "commit": "03c80dad937911572f8fb19903771a47956fc696",
+   "license": "PMDO assets (see repo); non-commercial fan use",
+   "use": "particle sheets, beams, BG overlays, the PMD pixel font",
+   "sparse": [
+    "Particle",
+    "Beam",
+    "BG",
+    "font"
+   ]
+  },
+  {
+   "dir": "DumpAsset",
+   "repo": "https://github.com/audinowho/DumpAsset",
+   "commit": "3e767571f9dd94270b848b3a73de9bec2553a2eb",
+   "license": "PMDO data (see repo)",
+   "use": "move animation recipes (Data/Skill), battle/menu sounds and fanfares (Content/Sound), music (Content/Music)",
+   "sparse": [
+    "Data/Skill",
+    "Content/Sound",
+    "Content/Music"
+   ]
+  },
+  {
+   "dir": "pss",
+   "repo": "https://github.com/smogon/pokemon-showdown",
+   "commit": "3a766f2cfb5e51c1e428cfe87d0dba91a8f01640",
+   "license": "MIT",
+   "use": "base stats, types, learnsets, type chart",
+   "sparse": [
+    "data"
+   ]
+  },
+  {
+   "dir": "gfonts",
+   "repo": "https://github.com/google/fonts",
+   "commit": "66928797f271fed5ee428544e7229685e2d90127",
+   "license": "SIL Open Font License 1.1",
+   "use": "Barlow / Barlow Condensed / Barlow Semi Condensed (self-hosted subsets)",
+   "sparse": [
+    "ofl/barlow",
+    "ofl/barlowcondensed",
+    "ofl/barlowsemicondensed"
+   ]
+  },
+  {
+   "dir": "ZzFX",
+   "repo": "https://github.com/KilledByAPixel/ZzFX",
+   "commit": "aab7e2b6b9086746b6e55fab75c75ce03e716c49",
+   "license": "MIT",
+   "use": "tiny synthesized UI sounds (vendored buildSamples)"
+  },
+  {
+   "dir": "ZzFXM",
+   "repo": "https://github.com/keithclark/ZzFXM",
+   "commit": "cb07fa9ca36aefd67a0c8c656d2958b62f8ed9fe",
+   "license": "MIT",
+   "use": "reference only"
+  },
+  {
+   "dir": "proper-pixel-art",
+   "repo": "https://github.com/KennethJAllen/proper-pixel-art",
+   "commit": "4de0dda5ba066491b5b5fac3500365db4dfd665e",
+   "license": "MIT",
+   "use": "true-pixel downsampling of the map paintings and ChatGPT textures"
+  }
+ ],
+ "user_files": [
+  "PSP build assets (assets.zip): title art, trainer portraits, court/water/air tiles, banners, 25 sound effects -> tools/psp_assets.py",
+  "Pokemon-Arena-Backgrounds.zip: map paintings for 9 arenas -> tools/paint_maps.py (Indigo Plateau and Lumiose painted in code)"
+ ]
+}

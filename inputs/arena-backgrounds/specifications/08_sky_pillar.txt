@@ -1,0 +1,19 @@
+Sky Pillar
+Mode: air
+Generation: built-in image generation
+
+Use case: stylized-concept.
+Asset type: finished 2D video-game battle background PNG.
+Create exactly one 1536x1024 landscape image, 3:2 aspect ratio. Fill the canvas edge to edge. This is the actual game asset, not a mockup, sheet, montage, illustration of a screen, or framed picture.
+Style: authentic 16-bit / Game Boy Advance and Nintendo DS era RPG pixel art. Crisp square hard-edged art pixels about 3x3 output pixels. Use a coherent limited palette of ABOUT 40 distinct solid colors. No anti-aliasing, no blur, no smooth gradients, no painterly texture, no photorealism, no film grain. Flat color ramps of 2-4 shades are fine. Match the same pixel scale and design language across this asset set.
+No characters, no Pokémon, no people, no text, no UI, no logos, no watermark, no border frame, no vignette. No perspective horizon. All decorative effects are restrained pixel shapes.
+Camera: looking straight down from very high in the sky. This is a far-below background for an aerial battle, not a walkable platform. Everything looks far away: use slightly hazy, desaturated, low-contrast flat palette colors to suggest distance WITHOUT any actual blur, transparency haze, or gradients. The middle must be restrained and readable under small flying sprites. Leave the middle completely free of clouds.
+Setting: Inspired by Sky Pillar from Pokémon Ruby/Sapphire/Emerald: open ocean far below with a small rocky island, and the round top of a tall ancient crumbling stone tower rising from it, placed off-center toward the lower left.
+Border/features: The tower and island are relatively small and confined toward the lower-left corner. Only a few thin cloud wisps in the corners. Keep the middle free of clouds because the game draws its own clouds.
+Precision: true straight-down bird's-eye camera with no horizon or perspective skyline. Far-below scenery occupies modest scale. Keep atmospheric distance entirely in the restrained desaturated palette, not blur. Corner wisps must stay completely outside the middle 75% rectangle x=192..1343, y=128..895. Use approximately 3x3 pixel blocks with only about 40 solid colors and no fine microtexture.
+
+Final revision prompt:
+Use case: precise-object-edit. Edit the supplied Sky Pillar battle background. Output exactly 1536x1024 landscape. Correct the camera to a TRUE VERTICAL STRAIGHT-DOWN 90-degree bird's-eye view. The small tower in the lower-left must show only a round roof/top and concentric broken stone rings, with NO vertical cylindrical side wall visible and no isometric extrusion. The island is below the tower in plan view. Shrink the island and tower by about a third and make the ocean much calmer, with sparse subtle low-contrast pixels instead of dense ripples. Keep all scenery very far below, slightly desaturated. Keep thin cloud wisps only in the very corners and absolutely none in the middle.
+Keep the tower's top a true round circle in plan view, and make the island small toward the lower left. Use subdued blue ocean, sparse flat-color pixel ripples. Every feature is far below. Authentic 16-bit/Game Boy Advance/Nintendo DS pixel art, approximately 3x3 pixel blocks, about 40 solid colors. No anti-aliasing, blur, gradients, characters, Pokémon, people, text, UI, logos, watermark, frame or vignette.
+
+Technical export: indexed PNG palette of up to 40 colors; uniform 3x3 nearest-neighbor art pixels. Final canvas 1536x1024.

@@ -1,0 +1,19 @@
+Dragonspiral Tower
+Mode: air
+Generation: built-in image generation
+
+Use case: stylized-concept.
+Asset type: finished 2D video-game battle background PNG.
+Create exactly one 1536x1024 landscape image, 3:2 aspect ratio. Fill the canvas edge to edge. This is the actual game asset, not a mockup, sheet, montage, illustration of a screen, or framed picture.
+Style: authentic 16-bit / Game Boy Advance and Nintendo DS era RPG pixel art. Crisp square hard-edged art pixels about 3x3 output pixels. Use a coherent limited palette of ABOUT 40 distinct solid colors. No anti-aliasing, no blur, no smooth gradients, no painterly texture, no photorealism, no film grain. Flat color ramps of 2-4 shades are fine. Match the same pixel scale and design language across this asset set.
+No characters, no Pokémon, no people, no text, no UI, no logos, no watermark, no border frame, no vignette. No perspective horizon. All decorative effects are restrained pixel shapes.
+Camera: looking straight down from very high in the sky. This is a far-below background for an aerial battle, not a walkable platform. Everything looks far away: use slightly hazy, desaturated, low-contrast flat palette colors to suggest distance WITHOUT any actual blur, transparency haze, or gradients. The middle must be restrained and readable under small flying sprites. Leave the middle completely free of clouds.
+Setting: Inspired by Dragonspiral Tower from Pokémon Black/White: a misty mountain valley with snowy pine forest far below, and an ancient spiral stone tower crowned with an architectural dragon-shaped spire, placed off-center toward the upper right. Cool wintry palette. The dragon-shaped spire is a stone architectural sculpture, not a living creature.
+Border/features: Only a few thin mist wisps in the corners. The relatively small ancient tower stays toward the upper right. Keep the middle free of clouds because the game draws its own clouds.
+Precision: true straight-down bird's-eye camera with no horizon or perspective skyline. Far-below scenery occupies modest scale. Keep atmospheric distance entirely in the restrained desaturated palette, not blur. Corner wisps must stay completely outside the middle 75% rectangle x=192..1343, y=128..895. Use approximately 3x3 pixel blocks with only about 40 solid colors and no fine microtexture.
+
+Final revision prompt:
+Use case: precise-object-edit. Edit this existing generated 2D battle background. Output exactly 1536x1024 landscape. Required correction: Correct to a TRUE VERTICAL STRAIGHT-DOWN 90-degree bird's-eye view from extremely high in the sky. All forest and mountains are seen in plan view. Replace the upper-right tower's large isometric side with a SMALL circular roof projection with spiral concentric stone rings and a small foreshortened sculpted stone dragon spire viewed from its TOP, never a large dragon head in side profile. No tower side walls visible. Make the tower and forest about half the current visual scale, so they feel much farther below. Preserve snowy pine valley, river, cool desaturated winter colors, thin mist wisps ONLY in the corners, and low-contrast cloud-free center.
+Preserve the setting, recognizable features and palette. Use authentic 16-bit/Game Boy Advance/Nintendo DS pixel art: hard-edged square art pixels about 3x3 screen pixels, about 40 solid flat palette colors. No anti-aliasing, smooth gradients, blur or fine microtexture. No characters, Pokémon, people, text, UI, logos or watermark. Fill the canvas edge to edge, without a frame or vignette.
+
+Technical export: indexed PNG palette of up to 40 colors; uniform 3x3 nearest-neighbor art pixels. Final canvas 1536x1024.
