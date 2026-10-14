@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1 — 2026-10-14
+
+- **Lumiose Skyline** now uses the full city image (the original file was cut off, so the map had been painted in code). Prism Tower sits at the centre, where its beacon sweeps from.
+- **Serpent tails:** Gyarados and Milotic use the tail fins from the ChatGPT sheets; the bodies stay drawn in code (the sheet pieces looked like separate beads) and the heads stay the real sprites.
+- **Build fixes:** the serpent-sheet tool cut off the last piece of each sheet; maps that aren't clean pixel art are snapped to the set's 3×3 pixels and 40 colours.
+
 ## 1.0.0 — 2026-10-13 — browser edition
 
 The PSP homebrew becomes a static web app for iPhone (Home Screen, landscape), Safari and Chrome.

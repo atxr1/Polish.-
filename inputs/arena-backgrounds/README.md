@@ -28,3 +28,7 @@ Ten finished 1536 × 1024 landscape PNG backgrounds for a 2D battle game.
 All ten PNGs have verified dimensions of 1536 × 1024, indexed palettes containing no more than 40 used colors, and a uniform 3 × 3 pixel grid. The 1024-pixel height clips the last art-pixel row to one screen pixel, because 1024 is not divisible by three. There is no interpolation or dithering in the final export.
 
 The artwork was created and revised with built-in image generation. Technical PNG export enforces the limited palette and pixel grid. The specifications folder contains the full generation and final revision prompts. assets.json contains dimensions, color counts, file sizes, and SHA-256 checksums for every PNG.
+
+## Replacement (2026-10-14)
+
+`images/10_lumiose_city.png` was truncated in the original delivery (the build fell back to a map painted in code). The user supplied the full image again: the overhead-tower version that matches the final revision prompt. It is a plain RGB render without a clean pixel grid, so `tools/build_assets.py` snaps it to the set's 3×3 art pixels and 40 colours.

@@ -36,11 +36,19 @@ def true_pixels(path):
         blk = im[:h, :w].reshape(h // k, k, w // k, k, 3)
         if (blk == blk[:, :1, :, :1, :]).all(axis=(1, 3, 4)).mean() > 0.995:
             return im[0:h:k, 0:w:k], k
-    # not clean pixel art: fall back to proper-pixel-art
-    sys.path.insert(0, os.path.join(V, 'proper-pixel-art'))
-    from proper_pixel_art import pixelate
-    out = pixelate.pixelate(Image.open(path).convert('RGB'))
-    return np.array(out.convert('RGB')), 0
+    # not clean pixel art (a re-encoded or raw render, e.g. the replacement Lumiose image): snap it to the set's
+    # 3x3 art-pixel density so it matches the other maps — 40-colour palette, then each 3x3 block takes its most
+    # common colour. (proper-pixel-art's grid detection guessed a far coarser grid on these renders.)
+    k = 3
+    q = Image.fromarray(im).quantize(colors=40, method=Image.Quantize.MEDIANCUT, dither=Image.Dither.NONE)
+    idx = np.array(q); pal = np.array(q.getpalette()[:40 * 3]).reshape(-1, 3)
+    h, w = (H // k) * k, (W // k) * k
+    blk = idx[:h, :w].reshape(h // k, k, w // k, k).transpose(0, 2, 1, 3).reshape(h // k, w // k, k * k)
+    cnt = np.zeros((h // k, w // k, 40), np.int32)
+    rows, cols = np.arange(h // k)[:, None], np.arange(w // k)[None, :]
+    for i in range(k * k):
+        np.add.at(cnt, (rows, cols, blk[:, :, i]), 1)
+    return pal[cnt.argmax(-1)].astype(np.int32), 'snapped 3'
 
 def quantize(img, n=48):
     im = Image.fromarray(img.astype(np.uint8), 'RGB')

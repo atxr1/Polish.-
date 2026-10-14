@@ -36,7 +36,8 @@ Why things are the way they are. Newest first within each section.
 - **Iron Defense** is an authored 2.5D steel shield arc around the fighter, depth-sorted with the scene.
 - **HUD panels fade back** to 35 % when a fighter is underneath them.
 - **Faint poses:** a species without a SpriteCollab Faint plays the PSP sprite's faint slot (35 of 42), extracted once by `tools/psp_faint.py` into `inputs/psp/faint/` and merged into the fighter atlas by `tools/build_sprites.py`. A fainted Mega or Primal reverts to its base form with a white flash, as in the games, so it uses the base sprite's faint pose; a Ho-Oh revive brings it back in base form. Deoxys formes have no PSP sprite and fall back to Sleep.
-- **Indigo Plateau Stadium and Lumiose Skyline are painted in code** (no source painting was supplied for them).
+- **Indigo Plateau Stadium is painted in code** (no source painting was supplied). Lumiose Skyline uses the user's image with the tower seen from directly overhead (their second, side-view tower version breaks the straight-down camera); it isn't clean pixel art, so the build snaps it to 3×3 art pixels and 40 colours like the rest of the set. The code-painted Lumiose remains only as a fallback.
+- **Serpent sheets are used piece by piece** (`inputs/serpents/use.json`): only pieces that beat the drawn-in-code art ship. Sheet body segments are stamped once per joint and read as beads, while the code-drawn body is one continuous tube, so the bodies stay drawn in code.
 
 ## UI and platform
 - **PlayStation glyphs are inline SVG** everywhere; on touch devices the ✕ / ○ prompts are also tap targets (○ = back, ✕ = confirm), because touch has no physical buttons.

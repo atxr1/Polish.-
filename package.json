@@ -1,6 +1,6 @@
 {
   "name": "pokemon-arena-browser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Pokémon Arena, browser edition: a real-time pixel-art arena fighter (personal, non-commercial fan game).",
   "type": "module",

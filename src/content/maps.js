@@ -81,8 +81,8 @@ export const MAPS = {
     blurb: 'A snowy valley around the spiral tower. Gusts shove fighters aside.',
   },
   lumiose: {
-    id: 'lumiose', name: 'Lumiose Skyline', region: 'Kalos', env: 'air', img: 'lumiose', size: [640, 400],
-    play: { x0: 106, y0: 56, x1: 534, y1: 344 }, obstacles: [], feature: 'beacon', featureCfg: { x: 320, y: 200 },
+    id: 'lumiose', name: 'Lumiose Skyline', region: 'Kalos', env: 'air', img: 'lumiose', size: [640, 341],
+    play: R(44, 34, 468, 306), obstacles: [], feature: 'beacon', featureCfg: pt(256, 170),   // Prism Tower at the image centre
     music: 'Sky Tower', ambience: 'city_wind', fx: { ambient: 'clouds', clouds: 2, beacon: true },
     blurb: 'Dusk over Lumiose City. Prism Tower\'s beacon reveals the hidden.',
   },

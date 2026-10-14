@@ -171,15 +171,11 @@
       "width": 1536,
       "height": 1024,
       "format": "PNG",
-      "encoding": "indexed palette",
-      "used_colors": 40,
-      "art_pixel_size": [
-        3,
-        3
-      ],
-      "last_pixel_row_clipped_to": 1,
-      "size_bytes": 141518,
-      "sha256": "eae75dfe5260dc97aa76e0fb631949f6b5b89fe9f1b6ef9d36d3783dd03b8f04"
+      "encoding": "RGB (replacement supplied 2026-10-14; the original export was truncated)",
+      "used_colors": null,
+      "art_pixel_size": "none (not grid-clean); snapped to 3x3 and 40 colours by tools/build_assets.py",
+      "size_bytes": 3911086,
+      "sha256": "bfa33c52301fe7b9a34b82531356a3b3ab3d1bbe9afb181f8c3bc83ac5306adf"
     }
   ]
 }

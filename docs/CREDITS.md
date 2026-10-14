@@ -13,12 +13,13 @@ Pokémon and all related names are © Nintendo, Creatures Inc. and GAME FREAK in
 | [google/fonts](https://github.com/google/fonts) | `66928797f271` | SIL Open Font License 1.1 | Barlow / Barlow Condensed / Barlow Semi Condensed (self-hosted subsets) |
 | [KilledByAPixel/ZzFX](https://github.com/KilledByAPixel/ZzFX) | `aab7e2b6b908` | MIT | tiny synthesized UI sounds (vendored buildSamples) |
 | [keithclark/ZzFXM](https://github.com/keithclark/ZzFXM) | `cb07fa9ca36a` | MIT | reference only |
-| [KennethJAllen/proper-pixel-art](https://github.com/KennethJAllen/proper-pixel-art) | `4de0dda5ba06` | MIT | true-pixel downsampling of the map paintings and ChatGPT textures |
+| [KennethJAllen/proper-pixel-art](https://github.com/KennethJAllen/proper-pixel-art) | `4de0dda5ba06` | MIT | pinned for pixel-grid recovery (the current maps and serpent sheets are snapped by the build's own block sampling) |
 
 ## Your files
 
 - PSP build assets (`inputs/psp/`): sunset stadium title art (also the app icon), trainer portraits, court and water tiles, Poké Ball banners, Kanto island map, the 25 PSP sound effects, and the faint frames of the PSP fighter sprites (`inputs/psp/faint/`, themselves drawn from the SpriteCollab sprites credited below) for the 35 species whose SpriteCollab sheet has no Faint animation.
-- Arena paintings (`inputs/arena-backgrounds/`): Bell Tower, Mt. Chimney, Spear Pillar, Cerulean Gym, Whirl Islands, Sootopolis, Azure Bay, Sky Pillar, Dragonspiral — processed to true pixel density with proper-pixel-art.
+- Arena paintings (`inputs/arena-backgrounds/`, made by the user with ChatGPT): Bell Tower, Mt. Chimney, Spear Pillar, Cerulean Gym, Whirl Islands, Sootopolis, Azure Bay, Sky Pillar, Dragonspiral, Lumiose City — reduced to their true pixel density at build time.
+- Serpent tail fins for Gyarados and Milotic (`inputs/serpents/`, made by the user with ChatGPT).
 - Indigo Plateau Stadium and Lumiose Skyline: painted in code (`tools/paint_maps.py`).
 
 ## Fighter sprites and portraits

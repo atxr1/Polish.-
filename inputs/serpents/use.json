@@ -1,0 +1,6 @@
+{
+  "_note": "Which pieces of each ChatGPT serpent sheet the game uses. Reviewed 2026-10-14: the body pieces drew as separate beads instead of one body and the heads don't match the real sprites (the game keeps the SpriteCollab heads), so only the tail fins that beat the hand-made ones ship.",
+  "gyarados": ["tail"],
+  "milotic": ["tail"],
+  "rayquaza": []
+}

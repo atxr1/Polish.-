@@ -1,7 +1,7 @@
 # Status — handoff for the next update session
 
-**Version 1.0.0 (2026-10-13).** Complete and playable; published to https://atxr1.github.io/Polish.-/ from `main`
-of `atxr1/Polish.-`. Source lives on the `src` branch of the same repository and in `arena-src-1.0.0.zip`.
+**Version 1.0.1 (2026-10-14).** Complete and playable; published to https://atxr1.github.io/Polish.-/ from `main`
+of `atxr1/Polish.-`. Source lives on the `src` branch of the same repository and in `arena-src-1.0.1.zip`.
 
 ## Start here
 1. `git clone -b src https://github.com/atxr1/Polish.- arena && cd arena` (or unzip the source zip).
@@ -27,7 +27,7 @@ of `atxr1/Polish.-`. Source lives on the `src` branch of the same repository and
 - Captures reviewed: contact sheets for every move, serpents, traversals, Mega sequences, faint sequences, all 12 maps.
 
 ## Known limits / next steps
-- **Serpent bodies** are authored procedurally. When the user brings the ChatGPT body sheets (brief Appendix C), drop them in `inputs/serpents/<gyarados|milotic|rayquaza>.png` and run `python3 -I tools/serpent_sheets.py` (chroma-key, pixel-grid recovery, palette quantize, slice 3×2): the game picks them up from `site/assets/serpents/index.json` automatically.
+- **Serpent bodies** are drawn in code as one continuous body, with the real SpriteCollab heads. The user's ChatGPT sheets (`inputs/serpents/`, processed by `python3 -I tools/serpent_sheets.py`) were reviewed on 2026-10-14: their body pieces drew as separate beads and the heads don't match the sprites, so only the Gyarados and Milotic tail fins ship (`inputs/serpents/use.json`). ChatGPT's image tool refused Gyarados and Rayquaza (it drew those with code), so better sheets are unlikely from it.
 - **Missing Mega sprites** in SpriteCollab (Venusaur, Blastoise, Gyarados, Scizor, Sceptile, Blaziken, Salamence, Metagross, Garchomp): those fighters use Ultimate moves instead of Mega Evolution. New sprite sheets from ChatGPT could add them (`species.js` → `mega`).
 - Headless Chromium can't decode AAC, so automated runs are silent; sound must be checked on a real device.
 - **Trainer team strength varies.** Each fighter is balanced 1v1, but whole teams differ: in Trainer Battles, team win rates range about 24–76 % (ground), 29–68 % (water) and 20–87 % (air; Nurse Joy's Ho-Oh/Latias/Articuno team is strongest, Paul's weakest). A per-team handicap or team edits are the next step if that matters.
