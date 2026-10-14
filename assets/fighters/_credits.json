@@ -1,0 +1,931 @@
+{
+ "garchomp": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Top_Kec",
+   "G\u301c"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.712330\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:44.712330\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2022-07-10 08:03:13.042238\t<@!276369635304275968>\tCUR\tPMDCollab_1\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3\n2025-08-13 10:35:50.614129\t<@!350050109741858829>\tCUR\tCC_BY-NC_4\tHappy,Inspired,Surprised,Stunned,Dizzy,Special3"
+  ]
+ },
+ "metagross": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Emmuffin"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.500897\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Ricochet,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:44.500897\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2022-11-27 20:41:07.155454\t<@!356635814668664832>\tCUR\tPMDCollab_1\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined\n2026-07-26 20:56:02.544667\t<@!356635814668664832>\tCUR\tCC_BY-NC_4\tSad,Joyous,Crying,Inspired,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Worried,Determined"
+  ]
+ },
+ "mewtwo": {
+  "sprite": [
+   "CHUNSOFT",
+   "JFain"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "baronessfaron"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:43.755287\tCHUNSOFT\tCUR\tUnspecified\tAttack,Charge,Double,Hop,Hover,Hurt,Idle,Punch,Rotate,Shoot,Sleep,Swing,Walk\n2022-04-14 00:56:01.712419\t<@!702275233125630042>\tCUR\tPMDCollab_1\tAttack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hover,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Punch,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk",
+   "2024-07-13 01:07:42.692884\tCHUNSOFT\tCUR\tCC_BY-NC_4\tNormal\n2024-07-13 01:28:34.177412\t<@!544245909639397378>\tCUR\tCC_BY-NC_4\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0"
+  ]
+ },
+ "charizard": {
+  "sprite": [
+   "CHUNSOFT",
+   "Emboarger"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "0palite"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:43.345381\tCHUNSOFT\tCUR\tUnspecified\tAttack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Strike,Swing,Walk\n2021-10-01 08:17:01.621356\t<@!237286997645983744>\tCUR\tPMDCollab_1\tCharge,Double,Faint,Hop,Hurt,Rotate,Shoot,Sleep,Strike,Swing\n2023-03-19 18:54:53.170665\t<@!237286997645983744>\tCUR\tPMDCollab_1\tFaint",
+   "2024-07-04 18:29:32.233290\tCHUNSOFT\tCUR\tCC_BY-NC_4\tNormal,Happy,Pain,Surprised,Teary-Eyed,Special0\n2024-07-04 18:32:31.753703\t<@!327927398941196289>\tCUR\tCC_BY-NC_4\tSad,Joyous,Crying,Inspired,Sigh,Shouting,Stunned,Angry,Dizzy,Worried,Determined"
+  ]
+ },
+ "blastoise": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Emmuffin",
+   "Top_Kec"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:43.356353\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Ricochet,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2026-05-04 18:00:18.387688\tCHUNSOFT\tCUR\tCC_BY-NC_4\tNormal,Joyous,Pain,Angry\n2026-05-04 18:54:41.224832\t<@!356635814668664832>\tCUR\tCC_BY-NC_4\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined\n2026-05-04 18:56:44.753391\t<@!276369635304275968>\tCUR\tCC_BY-NC_4\tHappy,Crying,Inspired,Sigh,Shouting,Surprised,Stunned,Dizzy,Worried,Determined\n2026-05-04 18:56:50.740973\t<@!276369635304275968>\tCUR\tCC_BY-NC_4\tHappy,Crying,Inspired,Sigh,Shouting,Surprised,Stunned,Dizzy,Worried,Determined"
+  ]
+ },
+ "venusaur": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Discord user 5514",
+   "G\u301c"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:43.332418\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,Dance,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:43.333415\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-03-02 21:04:24.384998\t<@!276175146304405514>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2024-10-01 04:29:55.680123\t<@!350050109741858829>\tCUR\tCC_BY-NC_4\tHappy,Pain\n2024-10-02 23:43:55.026767\t<@!350050109741858829>\tCUR\tCC_BY-NC_4\tHappy,Pain,Angry,Worried"
+  ]
+ },
+ "tyranitar": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Ichor"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2022-12-16 20:07:42.709631\tCHUNSOFT\tCUR\tUnspecified\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop",
+   "2020-10-07 17:58:44.165793\tCHUNSOFT\tCUR\tUnspecified\tNormal,Surprised\n2022-08-16 17:01:24.126324\t<@!779213287576436746>\tCUR\tPMDCollab_1\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined"
+  ]
+ },
+ "scizor": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Emboarger"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2023-03-13 02:50:03.606129\tCHUNSOFT\tCUR\tUnspecified\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,SpAttack,Swing,Double,Rotate,Hop",
+   "2020-10-07 17:58:43.981679\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-07-02 10:29:00.931176\t<@!237286997645983744>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2022-10-14 23:55:50.122119\t<@!237286997645983744>\tCUR\tPMDCollab_1\tJoyous,Happy,Inspired,Stunned\n2024-04-29 05:50:26.988162\t<@!237286997645983744>\tCUR\tCC_BY-NC_4\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined"
+  ]
+ },
+ "lucario": {
+  "sprite": [
+   "CHUNSOFT",
+   "Emmuffin"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "JFain",
+   "Emmuffin",
+   "MilesFarber",
+   "Deeshura",
+   "G\u301c"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1",
+   "PMDCollab_2",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.723301\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,QuickStrike,Strike,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate\n2023-03-19 21:50:39.908380\t<@!356635814668664832>\tCUR\tPMDCollab_1\tEventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint\n2024-09-07 21:23:27.049432\t<@!356635814668664832>\tCUR\tCC_BY-NC_4\tEventSleep,Wake,Float,Trip,Laying,HitGround",
+   "2020-10-07 17:58:44.724299\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-01-14 12:21:05.783280\t<@!702275233125630042>\tOLD\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2021-08-08 03:28:13.306426\t<@!356635814668664832>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2022-03-17 22:11:55.325071\t<@!207815740399681538>\tOLD\tPMDCollab_1\tSpecial0\n2023-03-11 18:08:44.747148\t<@!356635814668664832>\tCUR\tPMDCollab_1\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined\n2023-07-15 17:38:13.873137\t<@!356635814668664832>\tCUR\tPMDCollab_2\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined\n2025-03-30 21:27:19.677693\t<@!157796074457661440>\tCUR\tCC_BY-NC_4\tSpecial0\n2026-08-12 10:45:08.749663\t<@!350050109741858829>\tCUR\tCC_BY-NC_4\tSpecial1"
+  ]
+ },
+ "raikou": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "programmedsleepstate"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2023-05-04 17:21:28.135110\tCHUNSOFT\tCUR\tUnspecified\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike",
+   "2020-10-07 17:58:44.155259\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2022-08-10 09:49:28.421497\t<@!224476380790915072>\tCUR\tPMDCollab_1\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined"
+  ]
+ },
+ "entei": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Top_Kec"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "Unspecified"
+  ],
+  "raw": [
+   "2023-05-04 17:22:08.879619\tCHUNSOFT\tCUR\tUnspecified\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop",
+   "2020-10-07 17:58:44.157254\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2024-06-27 06:24:29.416617\t<@!276369635304275968>\tCUR\tCC_BY-NC_4\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined"
+  ]
+ },
+ "suicune": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Emmuffin"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2023-05-04 17:22:17.022353\tCHUNSOFT\tCUR\tUnspecified\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop",
+   "2020-10-07 17:58:44.159249\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-09-26 03:37:07.051692\t<@!356635814668664832>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried"
+  ]
+ },
+ "sceptile": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "0palite",
+   "baronessfaron"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.180752\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:44.180752\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-04-29 02:07:44.103345\t<@!327927398941196289>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2023-04-25 01:54:26.110827\t<@!544245909639397378>\tCUR\tPMDCollab_1\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined"
+  ]
+ },
+ "blaziken": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Noo"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.190727\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Slam,Shoot,Kick,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:44.190727\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-02-28 06:39:27.624213\t<@!217899432652308480>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried"
+  ]
+ },
+ "greninja": {
+  "sprite": [
+   "Jhony-Rex",
+   "\u25e5\u03b8\u2534\u03b8\u25e4",
+   "Soulja"
+  ],
+  "portrait": [
+   "Emmuffin"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1"
+  ],
+  "raw": [
+   "2022-07-07 22:33:51.270862\tJHONY_REX\tCUR\tPMDCollab_1\tIdle,Walk,Hurt,Attack,Charge,Swing,Double,QuickStrike\n2022-07-29 05:45:12.086421\t<@!215638650434617345>\tOLD\tPMDCollab_1\tIdle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop,QuickStrike\n2024-12-22 05:17:29.544141\tJHONY_REX\tCUR\tCC_BY-NC_4\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Rumble,RearUp,Swing,Double,Rotate,Hop,QuickStrike\n2024-12-22 18:37:01.973197\t<@!229131140903075840>\tCUR\tCC_BY-NC_4\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,QuickStrike",
+   "2024-11-20 05:52:10.379608\t<@!356635814668664832>\tCUR\tCC_BY-NC_4\tNormal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^"
+  ]
+ },
+ "infernape": {
+  "sprite": [
+   "CHUNSOFT",
+   "Caitemis"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Emmuffin"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.551761\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,MultiStrike,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate\n2026-01-12 20:14:16.011685\t<@!330751862590406656>\tCUR\tCC_BY-NC_4\tDeepBreath,Nod,LookUp,Cringe",
+   "2025-02-11 18:42:27.871414\tCHUNSOFT\tCUR\tCC_BY-NC_4\tNormal,Normal^\n2025-02-12 06:36:46.830412\t<@!356635814668664832>\tCUR\tCC_BY-NC_4\tSad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^"
+  ]
+ },
+ "darkrai": {
+  "sprite": [
+   "CHUNSOFT",
+   "baronessfaron"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Wyvernagon",
+   "baronessfaron"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2022-11-08 03:47:19.670949\tCHUNSOFT\tCUR\tUnspecified\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,RearUp,Swing,Double,Rotate,Hop,QuickStrike\n2022-11-08 04:14:41.871948\t<@!544245909639397378>\tCUR\tPMDCollab_1\tEventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint",
+   "2020-10-07 17:58:44.853951\tCHUNSOFT\tCUR\tUnspecified\tNormal,Normal^\n2020-12-12 16:51:00.714672\t<@!288067476963721216>\tOLD\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2021-03-11 05:55:15.954827\t<@!544245909639397378>\tCUR\tPMDCollab_1\tAngry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Special0,Special0^,Special1,Special1^,Special2,Special2^,Special3,Special3^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^,Normal"
+  ]
+ },
+ "articuno": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT"
+  ],
+  "license": [
+   "Unspecified"
+  ],
+  "raw": [
+   "2023-05-04 17:21:45.663338\tCHUNSOFT\tCUR\tUnspecified\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop",
+   "2020-10-07 17:58:43.742320\tCHUNSOFT\tCUR\tUnspecified\tNormal"
+  ]
+ },
+ "zapdos": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT"
+  ],
+  "license": [
+   "Unspecified"
+  ],
+  "raw": [
+   "2023-05-04 17:22:01.976723\tCHUNSOFT\tCUR\tUnspecified\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop",
+   "2020-10-07 17:58:43.744316\tCHUNSOFT\tCUR\tUnspecified\tNormal"
+  ]
+ },
+ "moltres": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT"
+  ],
+  "license": [
+   "Unspecified"
+  ],
+  "raw": [
+   "2023-05-04 17:21:54.081407\tCHUNSOFT\tCUR\tUnspecified\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover",
+   "2020-10-07 17:58:43.746310\tCHUNSOFT\tCUR\tUnspecified\tNormal"
+  ]
+ },
+ "gliscor": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Emmuffin"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.800097\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,QuickStrike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:44.800097\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2022-08-10 09:49:33.761686\t<@!356635814668664832>\tCUR\tPMDCollab_1\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined"
+  ]
+ },
+ "ho_oh": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "CamusZekeSirius"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.169783\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Jab,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:44.169783\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2020-12-19 02:23:01.471563\t<@!533406104256905257>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2021-01-09 16:51:58.104518\t<@!533406104256905257>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2021-01-10 19:14:01.454636\t<@!533406104256905257>\tCUR\tPMDCollab_1\tSpecial3\n2022-02-24 06:55:49.793553\t<@!533406104256905257>\tCUR\tPMDCollab_1\tNormal,Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried"
+  ]
+ },
+ "salamence": {
+  "sprite": [
+   "CHUNSOFT",
+   "Emmuffin"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Emmuffin"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "PMDCollab_2",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.494912\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,Rumble,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate\n2022-06-30 22:42:31.864587\t<@!356635814668664832>\tCUR\tPMDCollab_1\tEventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint",
+   "2020-10-07 17:58:44.494912\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2022-11-14 18:27:37.892011\t<@!356635814668664832>\tCUR\tPMDCollab_1\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined\n2023-12-18 23:32:12.854606\t<@!356635814668664832>\tCUR\tPMDCollab_2\tSad,Crying,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Determined"
+  ]
+ },
+ "latios": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Emmuffin"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2022-12-17 00:14:24.641992\tCHUNSOFT\tCUR\tUnspecified\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop",
+   "2020-10-07 17:58:44.514874\tCHUNSOFT\tCUR\tUnspecified\tHappy,Normal\n2021-07-06 07:27:58.144252\t<@!356635814668664832>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried"
+  ]
+ },
+ "latias": {
+  "sprite": [
+   "CHUNSOFT",
+   "Emmuffin"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Sharpen",
+   "Emmuffin"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1",
+   "PMDCollab_2",
+   "Unspecified"
+  ],
+  "raw": [
+   "2026-04-03 20:05:38.476915\tCHUNSOFT\tCUR\tCC_BY-NC_4\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop\n2026-04-04 02:23:31.596950\t<@!356635814668664832>\tCUR\tCC_BY-NC_4\tEventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint",
+   "2020-10-07 17:58:44.512864\tCHUNSOFT\tCUR\tUnspecified\tHappy,Normal\n2021-02-01 16:19:38.242723\t<@!389193348474339338>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2023-10-06 18:41:05.626124\t<@!356635814668664832>\tCUR\tPMDCollab_2\tSad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined"
+  ]
+ },
+ "rayquaza": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "CamusZekeSirius",
+   "Top_Kec"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.522837\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,QuickStrike,Shoot,SpAttack,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:44.522837\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-02-15 15:50:59.702469\t<@!533406104256905257>\tOLD\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried\n2021-03-03 12:51:00.980740\t<@!533406104256905257>\tOLD\tPMDCollab_1\tCrying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special1,Stunned,Surprised,Teary-Eyed,Worried,Normal\n2022-10-29 20:21:40.189212\t<@!276369635304275968>\tCUR\tPMDCollab_1\tSad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3"
+  ]
+ },
+ "deoxys": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Discord user 5403",
+   "Noo"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.527825\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:44.528821\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-04-08 15:40:48.782515\t<@!523152081805115403>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried\n2022-02-04 15:20:17.659947\t<@!217899432652308480>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Special3,Stunned,Surprised,Teary-Eyed,Worried"
+  ]
+ },
+ "staraptor": {
+  "sprite": [
+   "CHUNSOFT",
+   "Audino"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "CamusZekeSirius",
+   "ShyStarryRain",
+   "G\u301c"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.566719\tCHUNSOFT\tCUR\tUnspecified\tAttack,Charge,Double,Hop,Hover,Hurt,Idle,QuickStrike,Rotate,Shoot,Sleep,Swing,Walk\n2021-02-04 20:28:54.902361\t<@!117780585635643396>\tCUR\tPMDCollab_1\tDouble",
+   "2020-10-07 17:58:44.567717\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-01-31 07:46:12.707613\t<@!533406104256905257>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried\n2023-02-10 18:41:39.112419\t<@!576876006636519434>\tCUR\tPMDCollab_1\tSad,Joyous,Crying,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined\n2023-02-11 04:20:51.813990\t<@!576876006636519434>\tCUR\tPMDCollab_1\tDizzy\n2025-08-10 19:03:58.221563\t<@!350050109741858829>\tCUR\tCC_BY-NC_4\tHappy,Surprised,Special3\n2025-09-30 01:44:33.988401\t<@!350050109741858829>\tCUR\tCC_BY-NC_4\tHappy,Sigh,Surprised,Teary-Eyed,Dizzy,Worried,Special0\n2025-10-15 17:47:05.177866\t<@!350050109741858829>\tCUR\tCC_BY-NC_4\tSad,Pain,Determined"
+  ]
+ },
+ "hawlucha": {
+  "sprite": [
+   "Emmuffin"
+  ],
+  "portrait": [
+   "Soulja"
+  ],
+  "license": [
+   "CC_BY-NC_4"
+  ],
+  "raw": [
+   "2024-03-08 04:03:56.174771\t<@!356635814668664832>\tCUR\tCC_BY-NC_4\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Swing,Double,Rotate,Hop,Cringe\n2024-03-09 23:49:40.893314\t<@!356635814668664832>\tCUR\tCC_BY-NC_4\tAttack,Swing,Hop\n2024-10-20 21:40:41.758766\t<@!356635814668664832>\tCUR\tCC_BY-NC_4\tWalk",
+   "2025-04-26 18:06:48.594200\t<@!229131140903075840>\tCUR\tCC_BY-NC_4\tNormal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0"
+  ]
+ },
+ "kyogre": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "CamusZekeSirius",
+   "Top_Kec"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.516860\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Stomp,Shoot,Swell,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:44.517851\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-02-17 19:47:19.225054\t<@!533406104256905257>\tOLD\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Special3,Stunned,Surprised,Teary-Eyed,Worried\n2023-04-04 16:39:17.136831\t<@!276369635304275968>\tCUR\tPMDCollab_1\tSad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3"
+  ]
+ },
+ "gyarados": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "G\u301c",
+   "baronessfaron"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "Unspecified"
+  ],
+  "raw": [
+   "2023-05-04 14:55:15.921758\tCHUNSOFT\tCUR\tUnspecified\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop",
+   "2020-10-07 17:58:43.702426\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2024-09-29 17:53:16.889052\t<@!350050109741858829>\tOLD\tCC_BY-NC_4\tStunned\n2024-11-12 21:49:09.890671\t<@!544245909639397378>\tCUR\tCC_BY-NC_4\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined"
+  ]
+ },
+ "lapras": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "C_Pariah",
+   "silverfox88"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "PMDCollab_2",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:43.706416\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,Sound,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:43.707412\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-01-04 22:27:32.485195\t<@!322382592202637322>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2023-08-09 01:17:13.510101\t<@!476409795239477248>\tCUR\tPMDCollab_2\tJoyous,Crying,Inspired,Pain,Surprised,Angry,Determined"
+  ]
+ },
+ "lugia": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "G\u301c"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "Unspecified"
+  ],
+  "raw": [
+   "2023-05-04 17:21:16.464016\tCHUNSOFT\tCUR\tUnspecified\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover",
+   "2026-01-04 03:33:24.920130\tCHUNSOFT\tCUR\tCC_BY-NC_4\tNormal\n2026-01-06 19:13:47.024154\t<@!350050109741858829>\tCUR\tCC_BY-NC_4\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3"
+  ]
+ },
+ "starmie": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT"
+  ],
+  "license": [
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:43.679488\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:43.679488\tCHUNSOFT\tCUR\tUnspecified\tNormal"
+  ]
+ },
+ "milotic": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Emmuffin"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.435076\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:44.435076\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2022-06-11 19:58:14.758529\t<@!356635814668664832>\tCUR\tPMDCollab_1\tSad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined"
+  ]
+ },
+ "empoleon": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "0palite"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.557744\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,Appeal,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:44.557744\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-02-22 00:29:45.923257\t<@!327927398941196289>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried"
+  ]
+ },
+ "pikachu": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT"
+  ],
+  "license": [
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:43.416193\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,QuickStrike,Shoot,Shock,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround",
+   "2020-10-07 17:58:43.417190\tCHUNSOFT\tCUR\tUnspecified\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2022-02-03 17:34:26.112052\tCHUNSOFT\tCUR\tUnspecified\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Special2,Stunned,Surprised,Teary-Eyed,Worried"
+  ]
+ },
+ "meowth": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "PhillipsYoung"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:43.491989\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,MultiStrike,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround",
+   "2020-10-07 17:58:43.492991\tCHUNSOFT\tCUR\tUnspecified\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2022-02-03 17:34:57.133303\tCHUNSOFT\tCUR\tUnspecified\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Special2,Stunned,Surprised,Teary-Eyed,Worried\n2022-09-23 04:59:41.214173\t<@!772726854188400641>\tCUR\tPMDCollab_1\tSpecial0"
+  ]
+ },
+ "arbok": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "drawsstuff",
+   "Noo",
+   "Emmuffin"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "PMDCollab_2",
+   "Unspecified"
+  ],
+  "raw": [
+   "2022-12-16 19:40:57.548341\tCHUNSOFT\tCUR\tUnspecified\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop",
+   "2020-10-07 17:58:43.415196\tCHUNSOFT\tCUR\tUnspecified\tAngry,Normal,Pain,Surprised\n2021-01-19 21:49:06.546667\t<@!128989288665710592>\tOLD\tPMDCollab_1\tAngry,Happy,Normal,Pain,Shouting,Surprised\n2021-02-08 06:49:45.143505\t<@!217899432652308480>\tOLD\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2023-07-26 18:23:33.488968\t<@!356635814668664832>\tCUR\tPMDCollab_2\tSad,Joyous,Happy,Crying,Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Dizzy,Worried,Determined"
+  ]
+ },
+ "weezing": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT"
+  ],
+  "license": [
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:43.645579\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,Swell,Gas,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:43.645579\tCHUNSOFT\tCUR\tUnspecified\tNormal,Normal^"
+  ]
+ },
+ "chansey": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Mojo"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:43.655551\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:43.655551\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2020-12-21 08:52:18.123758\t<@!314519507869761556>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried"
+  ]
+ },
+ "growlithe": {
+  "sprite": [
+   "CHUNSOFT",
+   "Emmuffin",
+   "JustAGunk"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Deltex12",
+   "LT"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:43.507947\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,SpAttack,Rumble,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate\n2024-04-24 10:39:15.896788\t<@!356635814668664832>\tCUR\tCC_BY-NC_4\tEat,Cringe\n2026-07-28 00:43:16.483827\t<@!1377429093997477928>\tCUR\tCC_BY-NC_4\tEventSleep",
+   "2020-10-07 17:58:43.508946\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2020-10-27 19:21:36.059210\t<@!513590747694497792>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2021-02-22 09:09:18.844115\t<@!120852359676035072>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried"
+  ]
+ },
+ "charizard_mega": {
+  "sprite": [
+   "Kevin0itachi",
+   "G\u301c",
+   "Kevin"
+  ],
+  "portrait": [
+   "Emboarger",
+   "Soulja"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1"
+  ],
+  "raw": [
+   "2021-11-04 23:42:49.305726\tKEVIN0ITACHI\tCUR\tPMDCollab_1\tWalk,Attack,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe\n2026-03-22 18:33:18.762140\t<@!350050109741858829>\tCUR\tCC_BY-NC_4\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Cringe\n2026-03-29 23:00:48.129950\t<@!479925530129596426>\tCUR\tCC_BY-NC_4\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Cringe",
+   "2021-11-02 16:08:00.339280\t<@!237286997645983744>\tCUR\tPMDCollab_1\tNormal,Surprised\n2025-09-04 00:37:54.227649\t<@!229131140903075840>\tCUR\tCC_BY-NC_4\tNormal,Happy,Pain,Surprised"
+  ]
+ },
+ "mewtwo_mega": {
+  "sprite": [
+   "JFain"
+  ],
+  "portrait": [
+   "baronessfaron"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1"
+  ],
+  "raw": [
+   "2021-01-26 00:31:23.245153\t<@!702275233125630042>\tCUR\tPMDCollab_1\tAttack,Charge,Double,Hop,Hurt,Idle,Pose,Rotate,Shoot,Sleep,Swing,Walk\n2021-10-11 02:41:52.936504\t<@!702275233125630042>\tCUR\tPMDCollab_1\tAttack,Charge,Double,Hop,Idle,Pose,Rotate,Shoot,Walk",
+   "2024-07-13 02:48:14.790310\t<@!544245909639397378>\tCUR\tCC_BY-NC_4\tNormal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0"
+  ]
+ },
+ "tyranitar_mega": {
+  "sprite": [
+   "JFain"
+  ],
+  "portrait": [
+   "Sugi"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1"
+  ],
+  "raw": [
+   "2025-11-09 04:13:31.835683\t<@!702275233125630042>\tCUR\tCC_BY-NC_4\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop",
+   "2022-03-24 00:21:16.949084\t<@!537560911716810763>\tCUR\tPMDCollab_1\tNormal"
+  ]
+ },
+ "lucario_mega": {
+  "sprite": [
+   "baronessfaron"
+  ],
+  "portrait": [
+   "Caitemis"
+  ],
+  "license": [
+   "CC_BY-NC_4",
+   "PMDCollab_1"
+  ],
+  "raw": [
+   "2024-12-04 02:53:03.211208\t<@!544245909639397378>\tCUR\tCC_BY-NC_4\tIdle,Walk,Sleep,Hurt,Attack,Charge,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,QuickStrike\n2024-12-22 17:19:58.807592\t<@!544245909639397378>\tCUR\tCC_BY-NC_4\tAttack\n2025-03-30 19:04:45.150996\t<@!544245909639397378>\tCUR\tCC_BY-NC_4\tStrike",
+   "2022-03-09 23:46:28.958425\t<@!330751862590406656>\tCUR\tPMDCollab_1\tNormal\n2022-03-14 06:13:40.806530\t<@!330751862590406656>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried\n2022-03-19 16:54:26.294622\t<@!330751862590406656>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried"
+  ]
+ },
+ "latias_mega": {
+  "sprite": [
+   "Emmuffin"
+  ],
+  "portrait": [
+   "Top_Kec"
+  ],
+  "license": [
+   "CC_BY-NC_4"
+  ],
+  "raw": [
+   "2025-07-06 16:11:50.850656\t<@!356635814668664832>\tCUR\tCC_BY-NC_4\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop,Cringe\n2025-07-13 18:49:14.260548\t<@!356635814668664832>\tCUR\tCC_BY-NC_4\tHurt,Charge,Shoot,RearUp,Swing,Double,Hop",
+   "2024-07-06 05:43:11.558878\t<@!276369635304275968>\tCUR\tCC_BY-NC_4\tNormal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined"
+  ]
+ },
+ "latios_mega": {
+  "sprite": [
+   "Emmuffin"
+  ],
+  "portrait": [
+   "Top_Kec"
+  ],
+  "license": [
+   "CC_BY-NC_4"
+  ],
+  "raw": [
+   "2025-07-06 15:58:29.601778\t<@!356635814668664832>\tCUR\tCC_BY-NC_4\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop,Cringe",
+   "2024-07-06 09:02:54.982307\t<@!276369635304275968>\tCUR\tCC_BY-NC_4\tNormal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined"
+  ]
+ },
+ "kyogre_primal": {
+  "sprite": [
+   "baronessfaron"
+  ],
+  "portrait": [
+   "Keldaan",
+   "baronessfaron"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "PMDCollab_2"
+  ],
+  "raw": [
+   "2023-08-15 00:27:48.333305\t<@!544245909639397378>\tCUR\tPMDCollab_2\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Swell,Swing,Double,Rotate,Hop",
+   "2022-06-18 06:15:44.036223\t<@!153547941401853952>\tCUR\tPMDCollab_1\tNormal\n2022-06-20 00:31:34.294956\t<@!153547941401853952>\tCUR\tPMDCollab_1\tNormal\n2023-10-10 23:43:49.236780\t<@!544245909639397378>\tCUR\tPMDCollab_2\tNormal"
+  ]
+ },
+ "rayquaza_mega": {
+  "sprite": [
+   "Top_Kec"
+  ],
+  "portrait": [
+   "Top_Kec"
+  ],
+  "license": [
+   "PMDCollab_1"
+  ],
+  "raw": [
+   "2022-12-07 22:03:09.429206\t<@!276369635304275968>\tCUR\tPMDCollab_1\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop\n2022-12-09 04:20:38.462915\t<@!276369635304275968>\tCUR\tPMDCollab_1\tIdle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop",
+   "2022-12-31 04:37:20.589290\t<@!276369635304275968>\tCUR\tPMDCollab_1\tNormal\n2022-12-31 06:33:33.564017\t<@!276369635304275968>\tCUR\tPMDCollab_1\tNormal"
+  ]
+ },
+ "deoxys_attack": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Discord user 5403",
+   "Noo"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.536799\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:44.537797\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-01-14 20:08:08.099850\t<@!523152081805115403>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried\n2022-02-05 09:01:13.188860\t<@!217899432652308480>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Special3,Stunned,Surprised,Teary-Eyed,Worried"
+  ]
+ },
+ "deoxys_defense": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Discord user 5403",
+   "Noo"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.534806\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:44.534806\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-04-08 15:40:46.415904\t<@!523152081805115403>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried\n2022-02-05 09:01:18.331464\t<@!217899432652308480>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Special3,Stunned,Surprised,Teary-Eyed,Worried"
+  ]
+ },
+ "deoxys_speed": {
+  "sprite": [
+   "CHUNSOFT"
+  ],
+  "portrait": [
+   "CHUNSOFT",
+   "Discord user 5403",
+   "Noo"
+  ],
+  "license": [
+   "PMDCollab_1",
+   "Unspecified"
+  ],
+  "raw": [
+   "2020-10-07 17:58:44.531816\tCHUNSOFT\tCUR\tUnspecified\tWalk,Attack,QuickStrike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate",
+   "2020-10-07 17:58:44.532811\tCHUNSOFT\tCUR\tUnspecified\tNormal\n2021-04-08 15:40:52.210617\t<@!523152081805115403>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Determined^,Dizzy,Happy,Inspired,Inspired^,Joyous,Joyous^,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried,Worried^\n2022-02-05 09:01:22.467047\t<@!217899432652308480>\tCUR\tPMDCollab_1\tAngry,Crying,Determined,Determined^,Dizzy,Happy,Inspired,Inspired^,Joyous,Joyous^,Normal,Pain,Sad,Shouting,Sigh,Special1,Special3,Stunned,Surprised,Teary-Eyed,Worried,Worried^"
+  ]
+ }
+}
